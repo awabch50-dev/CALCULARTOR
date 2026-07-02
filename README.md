@@ -6,13 +6,13 @@
 
 <div dir="rtl" align="right">
 
-# 🧮 کیلکولیٹر (CALCULARTOR)
+# 🧮 کیلکولیٹر (CALCULATOR)
 
 ایک جدید اور ریسپانسیو کیلکولیٹر ویب ایپلیکیشن جو **HTML، CSS اور JavaScript** سے بنائی گئی ہے۔
 
 ## 🚀 لائیو ڈیمو
 
-🔗 https://awabch50-dev.github.io/CALCULARTOR/
+🔗 https://awabch50-dev.github.io/CALCULATOR/
 
 ---
 
